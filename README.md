@@ -36,8 +36,8 @@ Before running the project, you will need to install the following dependencies:
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Binimose/toxic-comment-detection.git
-cd toxic-comment-detection
+git clone https://github.com/Binimose/toxic-scooring-Tool.git
+cd toxic-scooring-Tool
 pip install -r requirements.txt
 ```
 
